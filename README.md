@@ -16,12 +16,12 @@
 
 
 ## *主な実績*  
-*県大会優勝   
-*英検３級   
-*漢検準２級   
-*ニュース検定   
-*アンガーマネジメント検定   
-*小学校夏の自由工作５年生、６年生最優秀賞
+* 県大会優勝   
+* 英検３級   
+* 漢検準２級   
+* ニュース検定   
+* アンガーマネジメント検定   
+* 小学校夏の自由工作５年生、６年生最優秀賞
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 

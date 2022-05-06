@@ -2,3 +2,5 @@ theme: jekyll-theme-minimal
 title: プクプクわーるど
 description: こんにちはプクプクだよ
 logo: /プクプク.png
+plugins:
+  - jekyll-sitemap
